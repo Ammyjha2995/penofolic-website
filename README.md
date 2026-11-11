@@ -22,3 +22,4 @@ A responsive static consulting website designed for deployment through GitHub an
 - `style.css`: responsive visual design
 - `script.js`: mobile navigation and footer year
 - `assets/logo-placeholder.svg`: editable placeholder logo
+Website deployment update
